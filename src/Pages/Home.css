@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  font-family: 'Arial', serif;
+}
+html { 
+  background: url('https://wallpaper.dog/large/20388232.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.Home-Wrapper{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2%;
+  text-align: center;
+}
+.About-Section {
+  background-color: #a2c3e9;
+  opacity: .8;
+  /* border-radius: 3%; */
+  /* margin-top: 15%; */
+  padding: 75px 2%;
+  width: 400px;
+  height: fit-content;
+  margin: 0 5%;
+}
+
+.Carousel {
+  margin: 0 5%;
+}
+
+p {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.Viet {
+  margin-top: 25px;
+}
+.Car2 {
+  width: 600px;
+}
+
+@media only screen and (max-width: 898px) {
+  p {
+    font-size: .8rem;
+  }
+}
