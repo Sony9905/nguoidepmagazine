@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nguoidepmagazine/static/css/main.6f558e55.css",
-    "main.js": "/nguoidepmagazine/static/js/main.5692fa83.js",
+    "main.js": "/nguoidepmagazine/static/js/main.e71f836e.js",
     "static/js/787.b028cf4c.chunk.js": "/nguoidepmagazine/static/js/787.b028cf4c.chunk.js",
     "static/media/000Cover-06_ESCOpharmacy-Done.jpg": "/nguoidepmagazine/static/media/000Cover-06_ESCOpharmacy-Done.2eb76f34ffd7989cdfcf.jpg",
     "static/media/000Cover-06_ChuaTuTam(HinhAnhSinhHoat)-Done.jpg": "/nguoidepmagazine/static/media/000Cover-06_ChuaTuTam(HinhAnhSinhHoat)-Done.691efed78017900b5f63.jpg",
@@ -186,11 +186,11 @@
     "static/media/015.jpg": "/nguoidepmagazine/static/media/015.b25db8c47430a42e41eb.jpg",
     "index.html": "/nguoidepmagazine/index.html",
     "main.6f558e55.css.map": "/nguoidepmagazine/static/css/main.6f558e55.css.map",
-    "main.5692fa83.js.map": "/nguoidepmagazine/static/js/main.5692fa83.js.map",
+    "main.e71f836e.js.map": "/nguoidepmagazine/static/js/main.e71f836e.js.map",
     "787.b028cf4c.chunk.js.map": "/nguoidepmagazine/static/js/787.b028cf4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f558e55.css",
-    "static/js/main.5692fa83.js"
+    "static/js/main.e71f836e.js"
   ]
 }
